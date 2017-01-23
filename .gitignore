@@ -1,1 +1,15 @@
-target
+### Eclipse ###
+*.pydevproject
+.metadata
+.gradle
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*.iml
+.idea/
+*~.nib
+local.properties
+.settings/
+.loadpath
